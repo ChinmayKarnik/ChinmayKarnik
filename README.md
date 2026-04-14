@@ -1,9 +1,24 @@
 # Chinmay Karnik
 
-Software engineer focused on building practical, real-world applications.
+React Native developer with a track record of shipping at scale. I've built performance-critical mobile systems at Zepto and Gameskraft — features and infrastructure used by millions. Outside of work, I build projects I'd actually use and I'm a competitive programmer — Codeforces International Master (2326), 6★ CodeChef (2354).
 
-I enjoy working through application architecture, implementation details, and the trade-offs involved in shipping reliable software. I like building things end-to-end and keeping things simple and maintainable.
+---
 
-## Contact
-- 🌐 Website: https://chinmaykarnik.com
-- 📧 Email: hello@chinmaykarnik.com
+## 📱 Personal Projects
+
+**[FitForge](https://github.com/ChinmayKarnik/FitForge)** — Strength training tracker. Log workouts, build routines, track progress. React Native, iOS & Android.
+
+**[react-native-firebase-fcm](https://github.com/ChinmayKarnik/react-native-firebase-fcm)** — FCM implementation for React Native with support for channels, topics, and background messaging.
+
+**[Tooltip](https://github.com/ChinmayKarnik/Tooltip)** — Lightweight, non-modal tooltip component for React Native. Customizable, performant, cross-platform.
+
+---
+
+## 🤝 Get in Touch
+
+**Website:** chinmaykarnik.com  
+**Email:** hello@chinmaykarnik.com  
+**LinkedIn:** linkedin.com/in/chinmay-karnik-25a08615b  
+**Upwork:** upwork.com/freelancers/~0163391268cac0919d
+
+Open to freelance and contract work — mobile architecture, React Native, and full-stack projects.
