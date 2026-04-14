@@ -16,9 +16,9 @@ React Native developer with a track record of shipping at scale. I've built perf
 
 ## 🤝 Get in Touch
 
-**Website:** chinmaykarnik.com  
+**Website:** [chinmaykarnik.com](https://chinmaykarnik.com)  
 **Email:** hello@chinmaykarnik.com  
-**LinkedIn:** linkedin.com/in/chinmay-karnik-25a08615b  
-**Upwork:** upwork.com/freelancers/~0163391268cac0919d
+**LinkedIn:** [linkedin.com/in/chinmay-karnik-25a08615b](https://linkedin.com/in/chinmay-karnik-25a08615b)  
+**Upwork:** [upwork.com/freelancers/~0163391268cac0919d](https://www.upwork.com/freelancers/~0163391268cac0919d)
 
-Open to freelance and contract work — mobile architecture, React Native, and full-stack projects.
+Available for freelance and contract work. If you're building something interesting, I'd love to be part of it — reach out.
