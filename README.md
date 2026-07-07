@@ -2,7 +2,7 @@
 
 React Native developer with a track record of shipping at scale. I've built performance-critical mobile systems at Zepto and Gameskraft, features and infrastructure used by millions.
 
-Outside of work, I build projects I'd actually use. Competitive programmer with a Codeforces International Master (2326) and 6★ CodeChef (2354).
+Outside of work, I build projects I'd actually use. Competitive programmer. Codeforces International Master (2326), 6★ CodeChef (2354).
 
 ---
 
