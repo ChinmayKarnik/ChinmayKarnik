@@ -1,8 +1,8 @@
 # Chinmay Karnik
 
-Software engineer with deep technical expertise across mobile, backend, and infrastructure systems. I've shipped performance-critical work at Zepto and Gameskraft, used by millions. I build as an AI-native engineer, using agentic workflows and custom tooling to design, debug, and ship faster.
+Software engineer with deep technical expertise across mobile, backend, and infrastructure systems. I've shipped performance-critical work at Zepto (quick-commerce) and Gameskraft (gaming), used by millions. I build as an AI-native engineer, using agentic workflows and custom tooling to design, debug, and ship faster.
 
-Outside of work, I build projects I'd actually use and I'm a competitive programmer - Codeforces International Master (2326), 6★ CodeChef (2354), ICPC regional finalist.
+Outside of work, I build projects I'd actually use and I'm a competitive programmer - [Codeforces](https://codeforces.com/profile/ChinmayKarnik) International Master (2326), 6★ [CodeChef](https://www.codechef.com/users/chinmaykarnik) (2354), ICPC regional finalist.
 
 ---
 
