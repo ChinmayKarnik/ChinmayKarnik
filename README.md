@@ -1,6 +1,6 @@
 # Chinmay Karnik
 
-Software engineer with a track record of shipping at scale. I've built performance-critical systems — mobile, backend, and infrastructure — at Zepto and Gameskraft, used by millions.
+Software engineer with a track record of shipping at scale. I've built performance-critical mobile, backend, and infrastructure systems at Zepto and Gameskraft, used by millions.
 
 Outside of work, I build projects I'd actually use and I'm a competitive programmer - Codeforces International Master (2326), 6★ CodeChef (2354), ICPC regional finalist.
 
