@@ -20,4 +20,4 @@ Outside of work, I build projects I'd actually use and I'm a competitive program
 
 **Website:** [chinmaykarnik.com](https://chinmaykarnik.com)  
 **Email:** hello@chinmaykarnik.com  
-**LinkedIn:** [linkedin.com/in/chinmay-karnik-25a08615b](https://linkedin.com/in/chinmay-karnik-25a08615b)
+**LinkedIn:** [linkedin.com/in/chinmay-karnik](https://www.linkedin.com/in/chinmay-karnik/)
