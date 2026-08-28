@@ -10,7 +10,7 @@ Outside of work, I build projects I'd actually use and I'm a competitive program
 
 **[FitForge](https://github.com/ChinmayKarnik/FitForge)** Strength training tracker. Log workouts, build routines, track progress. React Native, Android. [Play Store](https://play.google.com/store/apps/details?id=com.fitforgeapp)
 
-**[react-native-firebase-fcm](https://github.com/ChinmayKarnik/react-native-firebase-fcm)** FCM implementation for React Native with support for channels, topics, and background messaging.
+**[ChessTourney](https://github.com/ChinmayKarnik/ChessTourney/tree/mvp-1)** Tournament management app for chess players. Create and run tournaments, track standings, and verify players through the Lichess API. React Native, TypeScript.
 
 **[Tooltip](https://github.com/ChinmayKarnik/Tooltip)** Lightweight, non-modal tooltip component for React Native. Customizable, performant, cross-platform.
 
